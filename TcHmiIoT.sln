@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.779
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FE7A1B72-C5B7-4D7C-BB7D-76384D4DE8E1}") = "TcHmiIoT", "TcHmiIoT\TcHmiIoT.hmiproj", "{B517C89E-8D9B-4722-9DA4-FF3F4FEF52F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|TwinCAT HMI = Debug|TwinCAT HMI
+		Release|TwinCAT HMI = Release|TwinCAT HMI
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B517C89E-8D9B-4722-9DA4-FF3F4FEF52F6}.Debug|TwinCAT HMI.ActiveCfg = Debug|TwinCAT HMI
+		{B517C89E-8D9B-4722-9DA4-FF3F4FEF52F6}.Debug|TwinCAT HMI.Build.0 = Debug|TwinCAT HMI
+		{B517C89E-8D9B-4722-9DA4-FF3F4FEF52F6}.Release|TwinCAT HMI.ActiveCfg = Release|TwinCAT HMI
+		{B517C89E-8D9B-4722-9DA4-FF3F4FEF52F6}.Release|TwinCAT HMI.Build.0 = Release|TwinCAT HMI
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E814CB8D-4ABB-4BD4-906A-3F2B33D347A6}
+	EndGlobalSection
+EndGlobal

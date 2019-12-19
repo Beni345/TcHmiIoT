@@ -1,0 +1,13 @@
+﻿{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "definitions": {
+    "UserControls_UcMachineSelector_001": {
+      "frameworkControlNamespace": "TcHmi.Controls.Beckhoff",
+      "frameworkControlType": "tchmi-user-control-host",
+      "frameworkInstanceOf": "TcHmi.Controls.System.TcHmiControl",
+      "frameworkUserControlConfig": "UserControls\\UcMachineSelector_001.usercontrol.json",
+      "type": "object",
+      "id": "tchmi:project#/definitions/UserControls_UcMachineSelector_001"
+    }
+  }
+}
